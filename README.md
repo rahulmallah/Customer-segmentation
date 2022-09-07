@@ -9,7 +9,8 @@ spending scores.
 
 
 
-![download](https://user-images.githubusercontent.com/63289988/188992556-915eb8e5-8d2a-4643-996c-1be1ce866465.jpg)
+ ![image](https://user-images.githubusercontent.com/63289988/188992726-85a290a6-a0d6-458a-bac9-72033cbcb335.png)
+
 
 
 Results : 
