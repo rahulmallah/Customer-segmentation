@@ -13,7 +13,7 @@ spending scores.
 
 
 
-Results : 
+Results after applying the alogithm : 
 ![Screenshot (36)](https://user-images.githubusercontent.com/63289988/188992629-184ad88a-0263-4f6f-9a36-1611ce4fabe6.png)
 
 
